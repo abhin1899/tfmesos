@@ -5,8 +5,8 @@ TFMesos ---Fork---
    :alt: Join the chat at https://gitter.im/douban/tfmesos
    :target: https://gitter.im/douban/tfmesos?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
 
-.. image:: https://img.shields.io/travis/douban/tfmesos.svg
-    :target: https://travis-ci.org/abhin1899/tfmesos.svg?branch=master
+.. image:: https://travis-ci.org/abhin1899/tfmesos.svg?branch=master
+    :target: https://travis-ci.org/abhin1899/tfmesos
 .. image:: https://img.shields.io/pypi/v/tfmesos.svg
     :target: https://pypi.python.org/pypi/tfmesos
 .. image:: https://img.shields.io/docker/automated/tfmesos/tfmesos.svg
